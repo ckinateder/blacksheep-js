@@ -1,0 +1,26 @@
+{
+  "name": "blacksheep",
+  "version": "1.0.0",
+  "description": "a node js cryptocurrency",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckinateder/blacksheep-js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "crypto"
+  ],
+  "author": "Calvin Kinateder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckinateder/blacksheep-js/issues"
+  },
+  "homepage": "https://github.com/ckinateder/blacksheep-js#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
